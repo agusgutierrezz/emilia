@@ -1,0 +1,59 @@
+h1{
+  font-family: 'Work Sans', sans-serif;
+  margin-top: 75px;
+  font-size: 60px;
+  width: 300px;
+  margin-left: 40px;
+}
+nav {
+  text-align: right;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.5) ;
+}
+ ul {
+ display: inline-block;
+ margin: 0;
+ padding: 0;
+
+ }
+li {
+ float: right;
+ padding: 2px 5px;
+ margin: 15px;
+ list-style: none;
+ }
+li a{
+ text-decoration: none;
+ font-family: 'Raleway';
+ color: #000;
+ }
+.icons{
+    text-align: right;
+    font-size: 16px;
+}
+.container{
+  background-image: url("../emilia.img/emilia-about.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 1000px 800px;
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  width: 400px;
+  font-size: 20px;
+  color: #148F77;
+  font-weight: bold;
+  margin-left: 50px;
+}
+.chico{
+  width: 200px;
+}
+h6{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: #148F77;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+}
